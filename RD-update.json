@@ -4,6 +4,6 @@
   "url": "https://raw.githubusercontent.com/hkvernes/serviceTest/main/RDSmsMms-release.apk",
   "releaseNotes": [
     "- Added support for downloading and installation of updates",
-    "- Basic version"
+    "- First version"
   ]
 }

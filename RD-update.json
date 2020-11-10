@@ -1,9 +1,9 @@
 {
-  "latestVersion": "beta 0.9.22",
-  "latestVersionCode": 47,
-  "url": "https://www.handitek.se/rolltalk-designer/RDSmsMms-release.apk",
+  "latestVersion": "1.0.0",
+  "latestVersionCode": 49,
+  "url": "https://www.handitek.se/rd-version/RDSmsMms.apk",
   "releaseNotes": [
-    "- Added support for downloading and installation of updates",
-    "- Moved files to handitek.se"
+    "- Updated download path to reflect moving of files internally on handitek.se",
+    "- Removed beta flag"
   ]
 }
